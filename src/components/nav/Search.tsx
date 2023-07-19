@@ -22,7 +22,7 @@ function Search() {
     } else {
       searchParams.setSearchParams({ query })
     }
-  }, [query, searchParams])
+  }, [query])
 
   return (
     <form
