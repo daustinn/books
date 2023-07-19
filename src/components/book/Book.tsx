@@ -43,8 +43,8 @@ function Book({ book }: Props) {
         >
           <div className="h-[300px] rounded-xl overflow-hidden">
             <Image
-              width={300}
-              height={300}
+              width={200}
+              height={200}
               placeholder="empty"
               loading="lazy"
               src={book.cover}
