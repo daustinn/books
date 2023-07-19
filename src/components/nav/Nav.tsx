@@ -49,7 +49,7 @@ export function Nav() {
           <Link
             target="_blank"
             className="flex gap-2 pr-1 hover:text-white text-neutral-300 text-sm rounded-full items-center"
-            href="https://github.com/daustinn"
+            href="https://github.com/daustinn/books"
           >
             <span className="w-7 block">{IconGithub}</span>
           </Link>
